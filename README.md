@@ -1,6 +1,6 @@
 # RuleBasedCRM//////
-/////Rule Based CRM For Game Company/////  
-A dataset for a game company was used.
+/////Rule Based CRM For Game Company///// 
+Rule-based segmentation was performed using data from a gaming company.
 *Variables: Price, Source(Android/IOS), Country,Age   
-New segmentation for the users according to their purchase  was created.
+
 
